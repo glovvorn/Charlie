@@ -1,0 +1,14 @@
+c:\users\chuegi\source\repos\GetYourLearnOn\GetYourLearnOn\bin\Debug\GetYourLearnOn.exe.config
+c:\users\chuegi\source\repos\GetYourLearnOn\GetYourLearnOn\bin\Debug\GetYourLearnOn.exe
+c:\users\chuegi\source\repos\GetYourLearnOn\GetYourLearnOn\bin\Debug\GetYourLearnOn.pdb
+c:\users\chuegi\source\repos\GetYourLearnOn\GetYourLearnOn\obj\Debug\GetYourLearnOn.csproj.CoreCompileInputs.cache
+c:\users\chuegi\source\repos\GetYourLearnOn\GetYourLearnOn\obj\Debug\GetYourLearnOn.exe
+c:\users\chuegi\source\repos\GetYourLearnOn\GetYourLearnOn\obj\Debug\GetYourLearnOn.pdb
+C:\Users\chuegi\source\repos\GetYourLearnOn\GetYourLearnOn\obj\Debug\GetYourLearnOn.csprojResolveAssemblyReference.cache
+C:\Users\glovvorn\Documents\Charlie\GetYourLearnOn2\GetYourLearnOn\GetYourLearnOn\bin\Debug\GetYourLearnOn.exe.config
+C:\Users\glovvorn\Documents\Charlie\GetYourLearnOn2\GetYourLearnOn\GetYourLearnOn\bin\Debug\GetYourLearnOn.exe
+C:\Users\glovvorn\Documents\Charlie\GetYourLearnOn2\GetYourLearnOn\GetYourLearnOn\bin\Debug\GetYourLearnOn.pdb
+C:\Users\glovvorn\Documents\Charlie\GetYourLearnOn2\GetYourLearnOn\GetYourLearnOn\obj\Debug\GetYourLearnOn.csprojAssemblyReference.cache
+C:\Users\glovvorn\Documents\Charlie\GetYourLearnOn2\GetYourLearnOn\GetYourLearnOn\obj\Debug\GetYourLearnOn.csproj.CoreCompileInputs.cache
+C:\Users\glovvorn\Documents\Charlie\GetYourLearnOn2\GetYourLearnOn\GetYourLearnOn\obj\Debug\GetYourLearnOn.exe
+C:\Users\glovvorn\Documents\Charlie\GetYourLearnOn2\GetYourLearnOn\GetYourLearnOn\obj\Debug\GetYourLearnOn.pdb

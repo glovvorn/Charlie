@@ -1,0 +1,35 @@
+﻿<Window x:Class="GetYourLearnOnWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GetYourLearnOnWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+	<Grid>
+		<Menu DockPanel.Dock="Top">
+			<MenuItem Header="_File">
+				<MenuItem Command="New" />
+				<Separator />
+				<MenuItem Header="_Exit" />
+			</MenuItem>
+			<MenuItem Header="_Edit">
+				<MenuItem Command="Cut" />
+				<MenuItem Command="Copy" />
+				<MenuItem Command="Paste" />
+			</MenuItem>
+		</Menu>
+		<TabControl HorizontalAlignment="Left" Height="438" Margin="10,21,0,0" VerticalAlignment="Top" Width="772">
+			<TabItem Header="Entity Framework">
+				<Grid Background="#FFE5E5E5">
+					<Button Content="Test" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+				</Grid>
+			</TabItem>
+			<TabItem Header="Not being used yet">
+				<Grid Background="#FFE5E5E5"/>
+			</TabItem>
+		</TabControl>
+
+
+	</Grid>
+</Window>
